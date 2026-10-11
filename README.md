@@ -1,2 +1,2 @@
 # programming-fundamentals-labs
-Programming Fundamentals lab tasks, C++ source code, and practical work for BSCS students.
+M nausherwan babar  Section E Programming Fundamentals lab tasks, C++ .
